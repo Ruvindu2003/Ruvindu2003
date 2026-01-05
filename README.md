@@ -144,7 +144,7 @@ console.log(`📧 Reach me: ruvindusharada22@gmail.com`);
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruvindu2003&theme=algolia&hide_border=true&border_radius=15&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ruvindu2003&theme=algolia&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF" alt="GitHub Streak" />
 </div>
 
 <br/>
